@@ -2,7 +2,7 @@
 
 _How To Create PHP Object Oriented CRUD System Using PDO Extension And MySQL Database From Scratch_
 
-![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Send-Emails-In-PHP-With-Symfony-Mailer-Using-Gmail-SMTP-With-App-Passwords/main/PHP-Gmail-SMTP-Symfony-Mailer.png "Thumbnail")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/PHP-MySQL-OOP-PDO-Script-Version.png"Thumbnail")
 
 I will teach you how to create a PHP Object-Oriented CRUD system using the PDO extension and MySQL database from scratch. You should know the basics of PHP to handle this. After watching this video, you will know how to do a complete PHP CRUD operation. It's a video about backend web development and database.
 
