@@ -3,8 +3,11 @@
 _How To Create PHP Object Oriented CRUD System Using PDO Extension And MySQL Database From Scratch_
 
 ![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/PHP-OOP-CRUD-PDO-MySQL-Script.png "Thumbnail")
-![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/Create-and-Read.png "Thumbnail")
-![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/Update-and-Delete.png "Thumbnail")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/Create-and-Read.png "Create And Read Data")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/Update-and-Delete.png "Update And Delete Data")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/What-is-CRUD.png "What is CRUD?")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/What-is-OOP.png "What is OOP?")
+![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/PHP-OOP-CRUD-PDO-MySQL-Script/main/What-is-PDO.png "What is PDO?")
 
 I will teach you how to create a PHP Object-Oriented CRUD system using the PDO extension and MySQL database from scratch. You should know the basics of PHP to handle this. After watching this video, you will know how to do a complete PHP CRUD operation. It's a video about backend web development and database.
 
