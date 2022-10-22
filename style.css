@@ -1,0 +1,12 @@
+* {
+    font-family: "Fira Code" !important;
+}
+
+body {
+    background-color: #3a3c4e;
+}
+
+pre {
+    color: #fff;
+    font-size: 40px;
+}
