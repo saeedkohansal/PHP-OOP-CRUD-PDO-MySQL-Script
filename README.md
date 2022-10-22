@@ -1,4 +1,4 @@
-# PHP MySQL OOP CRUD PDO Script
+# PHP MySQL PDO OOP CRUD Script
 
 _How To Create PHP Object Oriented CRUD System Using PDO Extension And MySQL Database From Scratch_
 
