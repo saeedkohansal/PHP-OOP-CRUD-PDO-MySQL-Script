@@ -14,7 +14,7 @@ I will teach you how to create a PHP Object-Oriented CRUD system using the PDO e
 ## Video Tutorial [ Code This Script From Scratch ]
 [https://youtu.be/BrgMOsEWpzc](https://youtu.be/BrgMOsEWpzc)
 
- 
+  
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
