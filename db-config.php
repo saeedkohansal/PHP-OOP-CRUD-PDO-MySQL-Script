@@ -58,7 +58,7 @@ class Database
         }
     }
 
-    // Delete Row/Rows From Database - DELETE  
+    // Delete Row/Rows From Database - DELETE
     public function Remove($statement = "", $parameters = [])
     {
         try {
